@@ -1,4 +1,3 @@
-// Jr. Technical Exercises for Ally Financial Technical Interview
 // C# Exercise that creates a function to translate from English to Pig Latin
 // Created by Isabella Patterson
 
