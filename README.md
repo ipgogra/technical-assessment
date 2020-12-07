@@ -7,4 +7,4 @@ Exercise2.js
 
 Exercise3_FixedPage.html
 
-Exercise4_CustomersInvoices.sql
+Exercise4.sql
